@@ -1,0 +1,4 @@
+TransactionID,AccountID,TransactionAmount,TransactionDate,Location,Channel
+TX000001,AC00128,14.09,2023-04-11 16:29:14,San Diego,ATM
+TX000002,AC00455,376.24,2023-06-27 16:44:19,Houston,ATM
+TX000003,AC00019,126.29,2023-07-10 18:16:08,Mesa,Online
