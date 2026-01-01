@@ -71,7 +71,3 @@ Execution Time: 153.4 ms
 * Add new similarity calculators by implementing the SimilarityCalculator interface.
 * Adjust weights in CompositeSimilarityCalculator for customized recommendations.
 * Easily integrate new book datasets or stopword lists.
-
-## License
-
-MIT License
